@@ -1,4 +1,4 @@
-# local-ai-mcp
+# HANDS-ON GENAI, LLMS AND AIAGENTS
 
 A collection of standalone scripts exploring different AI/ML techniques: local LLM agents, image generation, embeddings, RAG, and Hugging Face pipelines.
 
