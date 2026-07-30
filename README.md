@@ -1,4 +1,4 @@
-# CODE GENERATE WHILE READING HANDS-ON GENAI, LLMS AND AIAGENTS BOOK BY AMAN KHARWAL
+# CODE GENERATED WHILE READING HANDS-ON GENAI, LLMS AND AIAGENTS BOOK BY AMAN KHARWAL
 
 A collection of standalone scripts exploring different AI/ML techniques: local LLM agents, image generation, embeddings, RAG, and Hugging Face pipelines.
 
