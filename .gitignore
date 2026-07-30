@@ -1,0 +1,50 @@
+# Environment variables / secrets
+.env
+.env.*
+*.key
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model training outputs / checkpoints
+gpt2-imdb-finetune/
+*.safetensors
+*.ckpt
+*.bin
+wandb/
+
+# Generated images from image-generation scripts
+astronaut_artifact.png
+minimalist_robot_brain.png
+
+# Hugging Face / torch hub cache (if downloaded into the repo)
+.cache/
