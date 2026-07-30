@@ -2,6 +2,7 @@
 .env
 .env.*
 *.key
+venv/
 
 # Byte-compiled files
 *.pyc
@@ -19,6 +20,7 @@ dist/
 .pytest_cache/
 .coverage
 htmlcov/
+__pycache__/
 
 # Type checkers / linters
 .mypy_cache/
@@ -48,3 +50,4 @@ minimalist_robot_brain.png
 
 # Hugging Face / torch hub cache (if downloaded into the repo)
 .cache/
+.
